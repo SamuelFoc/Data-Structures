@@ -6,9 +6,9 @@ int main() {
 
     // If statement
     if (x > 0){
-        std::cout << "Condition met.." << std::endl;
+        std::cout << "X > 0" << std::endl;
     } else {
-        std::cout << "Condition not met.." << std::endl;
+        std::cout << "X <= 0" << std::endl;
     }
 
     // For loop
