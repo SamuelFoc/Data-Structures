@@ -23,7 +23,7 @@ func modify_and_calculate_area(rectangle *Rectangle) int {
 
 	fmt.Printf("The area of the rectangle [%d, %d] is %d", rectangle.Height, rectangle.Width, area)
 
-	return area 
+	return area  
 }
 
 func main(){
